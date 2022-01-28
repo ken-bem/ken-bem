@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/kenbem"><img src="https://api.daily.dev/devcards/a46c91f95acb44298558f6ba47c38273.png?r=6x1" width="400" alt="Wombit's Dev Card"/></a>
+
 <!--
 **ken-bem/ken-bem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
